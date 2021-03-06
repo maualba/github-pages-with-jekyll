@@ -1,5 +1,5 @@
 title: Bem-vindo à malba!
-theme: minima
+theme: jekyll-theme-dinky
 author: malba
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
